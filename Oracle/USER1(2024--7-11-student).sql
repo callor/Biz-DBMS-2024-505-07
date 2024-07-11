@@ -118,6 +118,24 @@ CREATE TABLE tbl_student (
     st_addr	nVARCHAR2(125)		
 );
 
+SELECT * FROM tbl_student;
+SELECT COUNT(*) FROM tbl_student;
+
+-- 학생데이터 중에서 학과가 국사학과 인 학생의 리스트를 보여라
+-- 전체 데이터중에서 특정한 조건(WHERE)을 부여하여 
+-- 리스트의 일부만 출력하는 것을 SELECTION 이라고 한다
+SELECT *
+FROM tbl_student
+WHERE st_dept = '국사학과';
+
+-- 학생데이터 중에서 학생이름, 전화번호 항목만 보여주고 이름 순으로 정렬하여 보여라
+-- 학생테이블 전체 칼럼(속성, Attribute)중에서 
+-- 특정한 칼럼만 지정하여 화면에 보이도록 하는 것을 Projection 이라고 한다
+SELECT st_name, st_tel
+FROM tbl_student
+ORDER BY st_name;
+
+
 
 
 
