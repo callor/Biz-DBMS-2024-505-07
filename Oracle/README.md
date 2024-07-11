@@ -38,6 +38,34 @@
 
 ![alt text](image-8.png)
 
+### 다운로드 폴더에서 파일 확인
+
+![alt text](image-9.png)
+
+### Oracle Xe 7zip 으로 압축 풀기
+
+![alt text](image-10.png)
+
+### 압축해제 후 OracleXE 폴더 확인
+
+![alt text](image-11.png)
+
+### setup.exe 파일 클릭하여 설치
+
+![alt text](image-12.png)
+
+### SQL Developer 압축풀기
+
+![alt text](image-13.png)
+
+### SqlDeveloper 폴더 확인
+
+![alt text](image-14.png)
+
+### SqlDeveloper.exe 파일 확인
+
+![alt text](image-15.png)
+
 # 오라클 DBMS 의 특징
 
 - 오라클 DBMS 는 사용자 = 데이터 저장소 가 되어 DBMS 에 접속(Login)한 사용자는 자신의 DB에만 보통 접근이 가능하다
