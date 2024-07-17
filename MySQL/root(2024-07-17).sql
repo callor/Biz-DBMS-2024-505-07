@@ -42,7 +42,7 @@ IDENTIFIED BY '12341234';
 GRANT ALL PRIVILEGES ON mydb.* 
 TO 'user1'@'localhost' ;
 
-DROP USER 'user'@'localhost';
+DROP USER 'user1'@'localhost';
 
 
 
