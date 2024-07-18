@@ -25,6 +25,17 @@ SHOW DATABASES;
 -- 비밀번호는 s1234 로 설정
 -- 단, localhost 에서만 접근 가능
 CREATE USER 'schooluser'@'localhost'
-IDENTIFIED BY 's1234'
+IDENTIFIED BY 's1234';
+-- scholUser 사용자에게 
+-- schoolDB의 모든 테이블에 대하여
+-- 관리자 권한을 부여하기
+GRANT ALL PRIVILEGES ON schoolDB.*
+TO 'schooluser'@'localhost';
+-- 사용자의 권한이 무엇인가 확인하기
+SHOW GRANTS FOR 'schooluser'@'localhost';
+-- 사용자의 권한을 회수하기
+REVOKE ALL PRIVILEGES ON schoolDB.* 
+FROM 'schooluser'@'localhost';
 
-
+-- workbench 홈 화면에 schooluser 의 
+-- 접속 프로파일을 생성
