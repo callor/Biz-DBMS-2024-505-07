@@ -4,67 +4,67 @@
 
 ### https://oracle.com 접속
 
-![alt text](image.png)
+![alt text](readme_images/image.png)
 
 ### developers 메뉴
 
-![alt text](image-1.png)
+![alt text](readme_images/image-1.png)
 
 ### developers Resouce center 메뉴
 
-![alt text](image-2.png)
+![alt text](readme_images/image-2.png)
 
 ### downloads 메뉴
 
-![alt text](image-3.png)
+![alt text](readme_images/image-3.png)
 
 ### database 항목
 
-![alt text](image-4.png)
+![alt text](readme_images/image-4.png)
 
 ### Datbase Express Edition 항목
 
-![alt text](image-5.png)
+![alt text](readme_images/image-5.png)
 
 ### Oracle 21c Windows x64 다운로드
 
-![alt text](image-6.png)
+![alt text](readme_images/image-6.png)
 
 ### SQL Developer
 
-![alt text](image-7.png)
+![alt text](readme_images/image-7.png)
 
 ### JDK include 버전 다운로드
 
-![alt text](image-8.png)
+![alt text](readme_images/image-8.png)
 
 ### 다운로드 폴더에서 파일 확인
 
-![alt text](image-9.png)
+![alt text](readme_images/image-9.png)
 
 ### Oracle Xe 7zip 으로 압축 풀기
 
-![alt text](image-10.png)
+![alt text](readme_images/image-10.png)
 
 ### 압축해제 후 OracleXE 폴더 확인
 
-![alt text](image-11.png)
+![alt text](readme_images/image-11.png)
 
 ### setup.exe 파일 클릭하여 설치
 
-![alt text](image-12.png)
+![alt text](readme_images/image-12.png)
 
 ### SQL Developer 압축풀기
 
-![alt text](image-13.png)
+![alt text](readme_images/image-13.png)
 
 ### SqlDeveloper 폴더 확인
 
-![alt text](image-14.png)
+![alt text](readme_images/image-14.png)
 
 ### SqlDeveloper.exe 파일 확인
 
-![alt text](image-15.png)
+![alt text](readme_images/image-15.png)
 
 # 오라클 DBMS 의 특징
 
