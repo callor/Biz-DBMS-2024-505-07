@@ -39,3 +39,5 @@ FROM 'schooluser'@'localhost';
 
 -- workbench 홈 화면에 schooluser 의 
 -- 접속 프로파일을 생성
+
+

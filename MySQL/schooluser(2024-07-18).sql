@@ -91,3 +91,7 @@ FROM tbl_student ST
 WHERE st_grade = 3        
 GROUP BY st_num,st_name, st_dept, st_grade
 HAVING 평균 BETWEEN 60 AND 69;
+
+USE schooldb;
+DESC tbl_score;
+
